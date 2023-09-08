@@ -22,12 +22,13 @@ All presented codes are implemented in Python 3.7 (version>=3.7 might run into p
 
 ## Usage
 
-Codes are provided in Jupyter notebook. Example data (AB)are also provided. 
+Codes are provided in Jupyter notebook. Example data (from ABIDE-150) is also provided. 
 
 ## Features
 
-- Feature 1: Description of feature 1.
-- Feature 2: Description of feature 2.
+- Feature 1: step-by-step code to learn embeddings by using metric learning
+- Feature 2: comparable result from embedding learned by using principle component analysis (PCA)
+- Feature 3: Umap visualization of the learned latent space (in lower dimension) learned from both methods
 
 ## Contributing
 
@@ -42,8 +43,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 Please cite our previous paper if used (new manuscript is in preparation): https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871492
 
 
-Example data is ABIDE-150 from _Multisite functional connectivity mri classification of autism: Abide results_
-Please cite the paper if used: https://www.frontiersin.org/articles/10.3389/fnhum.2013.00599/full
+Example data is ABIDE-150 from _Multisite functional connectivity mri classification of autism: Abide results_. Please cite the paper if used: https://www.frontiersin.org/articles/10.3389/fnhum.2013.00599/full
 
 
 This work was supported by a Vannevar Bush Faculty Fellowship from the US Department of Defense (N00014-20-1-2027) and a Center of Excellence grant from the Air Force Office of Scientific Research (FA9550-22-1-0337). 
