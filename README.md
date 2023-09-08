@@ -4,7 +4,7 @@
 
 ## Description
 
-A brief description of your project goes here. Explain what it does and its main features.
+We propose a metric learning framework to extract meaningful latent structures from high-dimensional fMRI data. This method learns the latent embeddings that reduce the intra-group variability while maximizing the inter-group variability.
 
 ## Table of Contents
 
