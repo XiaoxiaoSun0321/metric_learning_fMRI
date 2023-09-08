@@ -4,7 +4,7 @@
 
 ## Description
 
-We propose a metric learning framework to extract meaningful latent structures from high-dimensional fMRI data. This method learns the latent embeddings that reduce the intra-group variability while maximizing the inter-group variability. More details can be found here (new manuscript in preparation): https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871492
+We propose a metric learning framework to extract meaningful latent structures from high-dimensional fMRI data. This method learns the latent embeddings that reduce the intra-group variability while maximizing the inter-group variability. More details can be found here (new manuscript is in preparation): https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871492
 
 ## Table of Contents
 
@@ -39,9 +39,13 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Credits
 
-Please cite our previous paper if used (new manuscript in preparation): https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871492
-DOI: 10.1109/EMBC48229.2022.9871492
-Example data is 
+Please cite our previous paper if used (new manuscript is in preparation): https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871492
+
+
+Example data is ABIDE-150 from _Multisite functional connectivity mri classification of autism: Abide results_
+Please cite the paper if used: https://www.frontiersin.org/articles/10.3389/fnhum.2013.00599/full
+
+
 This work was supported by a Vannevar Bush Faculty Fellowship from the US Department of Defense (N00014-20-1-2027) and a Center of Excellence grant from the Air Force Office of Scientific Research (FA9550-22-1-0337). 
 
 ## Contact
