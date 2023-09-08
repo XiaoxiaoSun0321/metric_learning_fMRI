@@ -4,7 +4,7 @@
 
 ## Description
 
-We propose a metric learning framework to extract meaningful latent structures from high-dimensional fMRI data. This method learns the latent embeddings that reduce the intra-group variability while maximizing the inter-group variability.
+We propose a metric learning framework to extract meaningful latent structures from high-dimensional fMRI data. This method learns the latent embeddings that reduce the intra-group variability while maximizing the inter-group variability. More details can be found here (new manuscript in preparation): https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871492
 
 ## Table of Contents
 
@@ -18,11 +18,11 @@ We propose a metric learning framework to extract meaningful latent structures f
 
 ## Installation
 
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed. You can include code snippets or commands for clarity.
+All presented codes are implemented in Python 3.7 (version>=3.7 might run into package compatibility issue). 
 
 ## Usage
 
-Explain how users can use your project and provide code examples or demonstrations to illustrate its functionality. Include instructions on how to run the code, use specific features, or configure settings.
+Codes are provided in Jupyter notebook. Example data (AB)are also provided. 
 
 ## Features
 
@@ -39,6 +39,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Credits
 
+Please cite our previous paper if used (new manuscript in preparation): https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871492
+DOI: 10.1109/EMBC48229.2022.9871492
+Example data is 
 This work was supported by a Vannevar Bush Faculty Fellowship from the US Department of Defense (N00014-20-1-2027) and a Center of Excellence grant from the Air Force Office of Scientific Research (FA9550-22-1-0337). 
 
 ## Contact
