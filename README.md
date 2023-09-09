@@ -19,6 +19,11 @@ We propose a metric learning framework to extract meaningful latent structures f
 ## Installation
 
 All presented codes are implemented in Python 3.7 (version>=3.7 might run into package compatibility issue). 
+needed packages:
+pytorch=1.12.1
+nilearn=0.10.1
+umap-learn==0.5.3
+pynndescent
 
 ## Usage
 
