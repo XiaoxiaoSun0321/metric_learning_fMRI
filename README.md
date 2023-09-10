@@ -57,7 +57,7 @@ Please cite our previous paper if used (new manuscript is in preparation): https
 Example data is ABIDE-150 from _Multisite functional connectivity mri classification of autism: Abide results_. Please cite the paper if used: https://www.frontiersin.org/articles/10.3389/fnhum.2013.00599/full
 
 
-This work from [LINK](https://liinc.bme.columbia.edu) was supported by a Vannevar Bush Faculty Fellowship from the US Department of Defense (N00014-20-1-2027) and a Center of Excellence grant from the Air Force Office of Scientific Research (FA9550-22-1-0337). 
+This work from [LIINC](https://liinc.bme.columbia.edu) was supported by a Vannevar Bush Faculty Fellowship from the US Department of Defense (N00014-20-1-2027) and a Center of Excellence grant from the Air Force Office of Scientific Research (FA9550-22-1-0337). 
 
 ## Contact
 
