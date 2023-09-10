@@ -39,6 +39,7 @@ Codes are provided in Jupyter notebook. Example data (from ABIDE-150) is also pr
 - Feature 1: step-by-step code to learn embeddings by using metric learning
 - Feature 2: comparable result from embedding learned by using principle component analysis (PCA)
 - Feature 3: Umap visualization of the learned latent space (in lower dimension) learned from both methods
+- Feature 4: interpretable original space (i.e., high-dimensional fMRI data) with metric learning
 
 ## Contributing
 
