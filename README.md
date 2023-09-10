@@ -4,7 +4,7 @@
 
 ## Description
 
-We propose a metric learning framework to extract meaningful latent structures from high-dimensional fMRI data. This method learns the latent embeddings that reduce the intra-group variability while maximizing the inter-group variability. More details can be found here (new manuscript is in preparation): https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871492
+We propose a metric learning framework to extract meaningful latent structures from high-dimensional fMRI data. This method learns the latent embeddings that reduce the intra-group variability while maximizing the inter-group variability. More details can be found here (a new manuscript is in preparation): https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871492
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ pynndescent
 
 ## Usage
 
-Codes are provided in Jupyter notebook. Example data (from ABIDE-150) is also provided. 
+Codes are provided in Jupyter notebook. Example data (from ABIDE-150) is also provided [Link to Dataset](https://www.dropbox.com/scl/fi/yyetw68bg12r9syf7gem2/abide_dl_80_data.pkl?rlkey=8je32mdk6n49xkiv27nhyohgs&dl=0). 
 
 ## Features
 
