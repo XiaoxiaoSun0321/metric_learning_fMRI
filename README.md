@@ -4,7 +4,7 @@
 
 ## Description
 
-We propose a metric learning framework to extract meaningful latent structures from high-dimensional fMRI data. This method learns the latent embeddings that reduce the intra-group variability while maximizing the inter-group variability. More details can be found [here](https://www.biorxiv.org/content/10.1101/2023.09.17.558181v1)
+We propose a metric learning framework to extract meaningful latent structures from high-dimensional fMRI data. This method learns the latent embeddings that reduce the intra-group variability while maximizing the inter-group variability. More details can be found [here](https://www.biorxiv.org/content/10.1101/2023.09.17.558181v1).
 
 ## Table of Contents
 
